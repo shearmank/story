@@ -1,2 +1,4 @@
 hello. good bye.
 adding another line.
+
+We should check for differences.
