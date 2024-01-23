@@ -2,3 +2,6 @@ hello. good bye.
 adding another line.
 
 We should check for differences.
+
+But this was not the last line!
+
