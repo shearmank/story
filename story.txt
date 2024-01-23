@@ -5,3 +5,4 @@ We should check for differences.
 
 But this was not the last line!
 
+I edited this on GitHub.
